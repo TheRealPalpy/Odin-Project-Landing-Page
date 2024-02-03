@@ -159,3 +159,7 @@ ul {
     display: flex;
     margin-left: 50px;
 }
+
+.quote_author {
+    align-items: right;
+}
